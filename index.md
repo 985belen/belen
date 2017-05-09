@@ -1,8 +1,8 @@
 # 个人信息
 
  - 李彬(Belen)
- - 工作年限: 6年前端
- - 联系方式: 18032621058 / 18500236168 / 985belen@gmail.com
+ - 工作年限: 7年前端
+ - 联系方式: 15901025187 / 微信：Web-Belen / 985belen@gmail.com
  - Github : https://github.com/985belen
 
  - 期望职位：高级前端开发工程师/ UED主管 / 前端开发经理
