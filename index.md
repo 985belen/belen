@@ -25,7 +25,6 @@
 ### 360 （2014年4月 ～ 2015年4月）
 - 负责360彩票网站前端开发
 
-### 360 （2014年4月 ～ 2015年4月）
 ### profero（ 2011年12月 ~ 2014年3月 ）
 - 独立完成百利http://www.baileys.com.cn/网站前端HTML+CSS+JS制作,其中包 括div布局、页面的一些效果【图片切换、弹出框、滚动条等】以及页面兼容各浏览器 、 负责德国汉莎http://lh.proferochina.com/活动页面的制作； 负责http://www.catalent.com、http://www.malts.com多国语言的网站维护, 以及EDM制作
 
